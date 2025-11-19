@@ -1,5 +1,5 @@
 # InventoryHub
-
+Live - https://inventory-hub-nine.vercel.app/
 A modern, full-featured e-commerce inventory management application built with Next.js 16, React 19, and TypeScript. Features a beautiful UI with dark/light theme support, product browsing, shopping cart, and checkout functionality.
 
 ## 🚀 Features
@@ -211,5 +211,6 @@ For issues or questions, please open an issue in the repository or contact the d
 ---
 
 Built with ❤️ using Next.js and React
+
 
 
